@@ -28,5 +28,25 @@ Working:-
 
 •	Step-9 :- After it releasing the traffic more effectively.
 
+Components Required :-
+
+ 1. Arduino UNO.
+
+ 2. Jumper Wires.
+
+ 3. IR sensors
+
+ 4. Gas Sensor.
+
+ 5. LCD Display
+
+ 6. LED's.
+
+Connection Diagram:- 
+
+![hqdefault](https://github.com/user-attachments/assets/89db8002-b7cc-4520-81cc-c2d15547ce68)
+
+
+
 
  
